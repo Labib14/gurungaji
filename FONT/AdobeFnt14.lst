@@ -1,0 +1,281 @@
+%!Adobe-FontList 1.14
+%Locale:0x421
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Project Web\gurungaji\Font\source-sans-pro.zip
+FileModTime:1526657888
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-ExtraLight
+FamilyName:Source Sans Pro
+StyleName:ExtraLight
+FullName:Source Sans Pro ExtraLight
+MenuName:Source Sans Pro ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:221580
+FileModTime:1526618254
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-ExtraLightIt
+FamilyName:Source Sans Pro
+StyleName:ExtraLight Italic
+FullName:Source Sans Pro ExtraLight Italic
+MenuName:Source Sans Pro ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-ExtraLightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:76400
+FileModTime:1526618254
+WeightClass:200
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-Light
+FamilyName:Source Sans Pro
+StyleName:Light
+FullName:Source Sans Pro Light
+MenuName:Source Sans Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:226032
+FileModTime:1526618254
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-LightIt
+FamilyName:Source Sans Pro
+StyleName:Light Italic
+FullName:Source Sans Pro Light Italic
+MenuName:Source Sans Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-LightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:77816
+FileModTime:1526618254
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+FullName:Source Sans Pro
+MenuName:Source Sans Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:229588
+FileModTime:1526618254
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-It
+FamilyName:Source Sans Pro
+StyleName:Italic
+FullName:Source Sans Pro Italic
+MenuName:Source Sans Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:79724
+FileModTime:1526618254
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-Semibold
+FamilyName:Source Sans Pro
+StyleName:Semibold
+FullName:Source Sans Pro Semibold
+MenuName:Source Sans Pro Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:232680
+FileModTime:1526618254
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-SemiboldIt
+FamilyName:Source Sans Pro
+StyleName:Semibold Italic
+FullName:Source Sans Pro Semibold Italic
+MenuName:Source Sans Pro Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:80316
+FileModTime:1526618254
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-Bold
+FamilyName:Source Sans Pro
+StyleName:Bold
+FullName:Source Sans Pro Bold
+MenuName:Source Sans Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:235128
+FileModTime:1526618254
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-BoldIt
+FamilyName:Source Sans Pro
+StyleName:Bold Italic
+FullName:Source Sans Pro Bold Italic
+MenuName:Source Sans Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:80392
+FileModTime:1526618254
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-Black
+FamilyName:Source Sans Pro
+StyleName:Black
+FullName:Source Sans Pro Black
+MenuName:Source Sans Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:234176
+FileModTime:1526618254
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansPro-BlackIt
+FamilyName:Source Sans Pro
+StyleName:Black Italic
+FullName:Source Sans Pro Black Italic
+MenuName:Source Sans Pro Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Project Web\gurungaji\Font\SourceSansPro-BlackIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:81120
+FileModTime:1526618254
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Project Web\gurungaji\Font\SIL Open Font License.txt
+FileModTime:1526618254
+%EndFont
+
